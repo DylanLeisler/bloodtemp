@@ -10,14 +10,14 @@ val localProperties = Properties().apply {
     if (file.exists()) load(file.inputStream())
 }
 android {
-    namespace = "com.example.bloodtemp"
+    namespace = "com.github.dylanleisler.bloodtemp"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
         }
     }
     defaultConfig {
-        applicationId = "com.example.bloodtemp"
+        applicationId = "com.github.dylanleisler.bloodtemp"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.example.bloodtemp.ui.theme
+package com.github.dylanleisler.bloodtemp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

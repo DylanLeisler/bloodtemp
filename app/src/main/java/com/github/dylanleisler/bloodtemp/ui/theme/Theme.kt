@@ -1,4 +1,4 @@
-package com.example.bloodtemp.ui.theme
+package com.github.dylanleisler.bloodtemp.ui.theme
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme

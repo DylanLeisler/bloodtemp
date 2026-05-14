@@ -1,4 +1,4 @@
-package com.example.bloodtemp
+package com.github.dylanleisler.bloodtemp
 
 import android.Manifest
 import android.content.Context
@@ -29,7 +29,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat
-import com.example.bloodtemp.ui.theme.BloodTempTheme
+import com.github.dylanleisler.bloodtemp.ui.theme.BloodTempTheme
 import com.google.android.gms.location.LocationServices
 import com.google.android.gms.location.Priority
 import com.google.android.gms.tasks.CancellationTokenSource

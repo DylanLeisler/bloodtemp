@@ -1,4 +1,4 @@
-package com.example.bloodtemp
+package com.github.dylanleisler.bloodtemp
 
 import org.junit.Test
 
